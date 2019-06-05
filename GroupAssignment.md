@@ -14,3 +14,4 @@ Copy and paste this template, and fill in the relevant information:
 --
 
 
+This is some extra text which I, Rene Hoos have addes for the exercise number 3.3.
